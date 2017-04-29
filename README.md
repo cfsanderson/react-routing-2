@@ -1,8 +1,8 @@
-# React Routing 2
+# React Routing 2 - my version of the [React Router Tutorial](https://github.com/reactjs/react-router-tutorial)
 
-## This is my version of the [React Router Tutorial](https://github.com/reactjs/react-router-tutorial) but built with @ambethia's [`app-app` boilerplate](https://www.npmjs.com/package/app-app). I used the "delta" stack for this project.
+This is based on the React Router Tutorial but built with the [`app-app`](https://www.npmjs.com/package/app-app) boilerplate by @ambethia . I used the "delta" stack for this project.
 
-I have recompiled all of the notes from the original tutorial repo into this one file. See below...
+Below are all the notes from the original tutorial that I have recompiled into this one file. See below...
 
 ---
 
