@@ -1,7 +1,7 @@
 @import 'utility';
 
 $base-text-size: 16px;
-$base-font-family: sans-serif;
+$base-font-family: Helvetica, sans-serif;
 
 html {
   @include full-height;
@@ -10,4 +10,19 @@ html {
 body {
   margin: 0;
   font: $base-text-size / 1 $base-font-family;
+  font-weight: 100;
+  background-color: hsla(232, 7%, 20%, 1);
+  color: #e8e8e8;
+  padding: 5%;
+
+  h1 { font-size: 3em; }
+
+  h1,
+  h2 {
+    font-weight: 100;
+  }
+
+  p {
+    font-weight: 100;
+  }
 }
