@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
-import { Router, Route, hashHistory } from 'react-router'
+// import { Router, Route, hashHistory } from 'react-router'
 import Apps from './Apps'
 
-class App extends Component {
+class Layout extends Component {
   render () {
     return (
       <div>
@@ -12,4 +12,4 @@ class App extends Component {
   }
 }
 
-export default App
+export default Layout

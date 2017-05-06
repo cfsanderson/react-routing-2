@@ -6,7 +6,7 @@ class Apps extends Component {
   render () {
     return (
       <div>
-        <h1>Collection (Apps)</h1>
+        <h1>Layout</h1>
         <Notes />
         <Part01 />
       </div>

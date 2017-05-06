@@ -19,10 +19,21 @@ body {
 
   h1,
   h2 {
-    font-weight: 100;
+    font-weight: lighter;
   }
 
   p {
     font-weight: 100;
+  }
+}
+
+.notes-component {
+  padding: 5px;
+  background-color: hsla(232, 9%, 16%, 0.5);
+  border: 1px solid hsla(0, 0%, 90%, 0.5);
+
+  h2, p {
+    margin: auto;
+    padding: 3px 0;
   }
 }
